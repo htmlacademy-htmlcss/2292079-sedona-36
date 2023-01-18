@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss/36/user/2292079).
-* Наставник: `Неизвестно`.
+* Студент: [Ирина Авдеева](https://up.htmlacademy.ru/htmlcss/36/user/2292079).
+* Наставник: [Антон Попов](https://htmlacademy.ru/profile/joker).
 
 ---
 
